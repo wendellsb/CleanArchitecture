@@ -354,3 +354,11 @@ C:\Users\Wendell\Desktop\Programação\Clean_Architecture\CleanArchMvc.WebUI\obj
 C:\Users\Wendell\Desktop\Programação\Clean_Architecture\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.pdb
 C:\Users\Wendell\Desktop\Programação\Clean_Architecture\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.genruntimeconfig.cache
 C:\Users\Wendell\Desktop\Programação\Clean_Architecture\CleanArchMvc.WebUI\obj\Debug\net5.0\ref\CleanArchMvc.WebUI.dll
+C:\Users\Wendell\Desktop\Programação\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Application.dll
+C:\Users\Wendell\Desktop\Programação\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\Users\Wendell\Desktop\Programação\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Infra.Data.dll
+C:\Users\Wendell\Desktop\Programação\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
+C:\Users\Wendell\Desktop\Programação\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
+C:\Users\Wendell\Desktop\Programação\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Application.pdb
+C:\Users\Wendell\Desktop\Programação\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\Users\Wendell\Desktop\Programação\Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
