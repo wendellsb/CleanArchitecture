@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace CleanArchMvc.Domain.Entities
 {
-    public sealed class Category // garantindo que a classe Category nao seja herdada
+    public sealed class Category : Entity // garantindo que a classe Category nao seja herdada
     {
-        public int Id { get; private set; }
         public string Name { get; private set; }
 
         // construtores parametrizados
@@ -19,7 +18,7 @@ namespace CleanArchMvc.Domain.Entities
         }
         public Category(int id, string name)
         {
-            DomainExceptionValidation.When(id < 0, "Invalid Id value"); // testa se o Id é negativo 
+            DomainExceptionValidation.When(id < 0, "Invalid Id value."); // testa se o Id é negativo 
             Id = id;
             ValidadeDomain(name);
         }
