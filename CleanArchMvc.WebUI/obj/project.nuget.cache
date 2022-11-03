@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eEH0Gx6OW7wq1opyO1GwypkjIB2RbdqgW08lgE6L8K3vMWDxGZfQLuNGZs30nVlUYqZIy2wKCptnXBbeUQdtBA==",
+  "dgSpecHash": "5U1Gp6xymfwI7Qyxc64wzkVOXcJHXvf/sxeTHqq7Rwvj9HaEwezE84lygU9ONnUT2NXhZ04fJqwL6dKBOcRUDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wendell\\Desktop\\Programação\\Clean_Architecture\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\Wendell\\Desktop\\Programação\\CleanArchitecture\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wendell\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.16\\microsoft.aspnetcore.mvc.razor.extensions.5.0.16.nupkg.sha512",
     "C:\\Users\\Wendell\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.16\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.16.nupkg.sha512",
@@ -108,7 +108,8 @@
     "C:\\Users\\Wendell\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Wendell\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Wendell\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Wendell\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Wendell\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Wendell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

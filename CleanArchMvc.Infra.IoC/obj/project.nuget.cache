@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XaeWj5ydiWx+HCRJsFZRNFu4nX/TCpLjRPoondd7+BTjdkFSL49D0km2AHThD/39zxDtQ/e/HqzI15g9mvCkXg==",
+  "dgSpecHash": "c6TKxuRX5AtPbxBnk/BBJRfUgJ+gz7okoQiceSoxlt805S+bWf3Se1SInVIRg8Lw4sQr4YzQZ3m/6vcgNy2PlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wendell\\Desktop\\Programação\\Clean_Architecture\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+  "projectFilePath": "C:\\Users\\Wendell\\Desktop\\Programação\\CleanArchitecture\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wendell\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Wendell\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

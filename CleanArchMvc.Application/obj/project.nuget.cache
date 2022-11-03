@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tyk9q5VrlcIsAVv15yudUKxoK7mSeW/7bx0cHRUkKDc0ups7Ua9GBGrGozsOn5R2W3ffkjzVBLMqyVon8NG8fw==",
+  "dgSpecHash": "eQSmrk8xEPwPK5MNdH+LG84E7LCLMUdzXkeTm8aoAU7wB5Ylk5BeCOvu8yuIQF59RVUVG/HOPi+4OL9PTm9JrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wendell\\Desktop\\Programação\\Clean_Architecture\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "projectFilePath": "C:\\Users\\Wendell\\Desktop\\Programação\\CleanArchitecture\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

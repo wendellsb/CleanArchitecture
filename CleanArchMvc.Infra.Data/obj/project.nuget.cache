@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uz6Of2mbE7tFKKHFIS3CTl+LXGlTqUC+oxhC9RhUrIbjiohzjU8/Zq4QWSRV3drEeLswaJiy54x+XJhMnO/uSw==",
+  "dgSpecHash": "m5Cv+PfU0vQa7I4Fxc1GXvReXxpm5e5D1gvBI9BRAvnY+MIGtXihy3+fdMfHQDnGVYTP6PgsC1xwhQYCZsMB8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wendell\\Desktop\\Programação\\Clean_Architecture\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\Wendell\\Desktop\\Programação\\CleanArchitecture\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wendell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Wendell\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
